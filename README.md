@@ -1,5 +1,4 @@
 # SRT Player（字幕プレーヤー）
-
 **SRT Player** は、字幕（.srt）ファイルを再生するシンプルなアプリケーションです。  
 動画編集で字幕をつけるのが面倒という方向けに開発しました。
 
@@ -25,6 +24,27 @@
 1. 本アプリを起動します。  
 2. 字幕ファイル（.srt）を選択して読み込みます。  
 3. 再生中の動画の上に本アプリを重ねてご利用ください。  
+
+---
+
+## 📸 スクリーンショット
+起動画面<br>
+<img width="308" height="305" alt="image" src="https://github.com/user-attachments/assets/12afffbc-384b-47a7-8b77-9371e2f53d33" />
+<br>設定画面（読み込むsrtファイル、フォントのサイズ・色などを指定可能）<br>
+<img width="360" height="168" alt="image" src="https://github.com/user-attachments/assets/3149ff24-46fa-4240-885d-3e70e0306966" />
+<br>文字だけを再生可能<br>
+<img width="492" height="127" alt="image" src="https://github.com/user-attachments/assets/eb8cc7bc-41c2-4381-acf4-745791528370" />
+
+---
+
+## 🧩 技術スタック
+- Windows / .NET Framework（4.0以降 で動作想定）
+- C++/CLIで開発したWindowsアプリケーション
+  
+---
+
+## 📄 ライセンス
+MIT
 
 ---
 
