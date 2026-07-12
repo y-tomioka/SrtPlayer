@@ -49,7 +49,7 @@ MIT
 ---
 
 ## 🔗 関連リンク
-- 公式ホームページ：(http://www.yasui-kamo.com/labo/stplayer/)
+- 公式ホームページ：(https://www.vector.co.jp/soft/winnt/art/se505374.html)
 
 ## その他の開発アプリ
 * [RecollectViewer](https://www.yasui-kamo.com/labo/recollectviewer/) - 主要3大AI（ChatGPT/Gemini/Claude）の対話履歴を横断検索できるローカルビューアー
